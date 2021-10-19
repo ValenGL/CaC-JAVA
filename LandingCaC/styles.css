@@ -8,8 +8,9 @@
   height: 40rem;
 }
 
-.card-group {
+.cards-container {
   margin: 0rem 15rem;
+  height: auto;
 }
 
 .card {
